@@ -3,6 +3,5 @@
 # docker run --name sparklet-blog --volume="$PWD:/srv/jekyll" -p 3000:4000 -it jekyll/jekyll bundle install bundle exec jekyll build
 # docker run -p 4000:4000 -v "$(pwd)":/site bretfisher/jekyll jekyll build
 
-docker build -t jekyll-site .
-docker run --rm -v "$(pwd)":/srv/jekyll jekyll-site
-serve _site
+docker build -t jekyll-builder .
+docker run --rm -v "$(pwd)":/srv/jekyll jekyll-builder
