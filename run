@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# watch for changes in _posts and rebuild. requires `nodemon`.
+
+nodemon -w _posts -x "./build" -e ".md"
