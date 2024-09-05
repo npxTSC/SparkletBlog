@@ -22,8 +22,6 @@ Here's a little bit of a preview of what it looks like:
 
 ## Installation
 
-I haven't uploaded binaries to any distro package repos myself, but I might someday. In the meantime, if anyone else would like to, that would be great too!
-
 To build from source, it requires a bunch of dependencies. Copy and run a line from below based on your distro:
 
 ```bash
@@ -34,10 +32,19 @@ sudo pacman -S --needed gcc gtk4 pkgconf libadwaita
 sudo apt install gcc libgtk-4-dev pkg-config libadwaita-1-dev
 ```
 
-If your distro is missing from this list and you figure out what the dependency package names are, please let me know so I can add them here for others to see. Once you have the dependencies installed, build the crate from crates.io with:
+If your distro is missing from this list and you figure out what the dependency package names are, please let me know so I can add them here for others to see. Once you have the dependencies installed, build the crate off GitHub with:
 
 ```bash
-cargo install windot
+# Clone the repo
+git clone https://github.com/Lamby777/windot.git
+cd windot
+
+# Build it and install it
+make && sudo make install
+
+# Clean up
+cd ..
+rm -rf windot
 ```
 
 ---
@@ -66,9 +73,9 @@ My friend ran into a problem with the emojis not being saved to their clipboard 
 
 One feature you might notice is missing is the ability to click an emoji to type it directly into a text field. This is something I really miss from Windows, where typing emojis is fairly straightforward and doesn't involve the clipboard at all. All the other emoji pickers I've seen on Linux don't have it either. This is the only real feature left to add, so it's my main focus for the app right now.
 
-### App Icon
+### Packaging
 
-Right now, it just shows the Wayland default icon in the taskbar. I'd like to add a custom icon for the app, but I'm not sure how to do that yet. I'll look into it soon.
+I'm still in the process of figuring out how to package this for distros. My main focus as of writing this is Arch Linux. I just set up a `Makefile`, so for the most part packages should just specify the dependencies listed above, run `make` and `sudo make install`, and they'll be done.
 
 ---
 
@@ -109,12 +116,6 @@ Having absolutely zero knowledge on how to write a GTK app before starting this 
 ## Conclusion
 
 I hope you enjoy using `windot` for all your emoji-picking needs as much as I enjoyed working on it so far. I'm excited to see what the community thinks of it and what features they'd like to see next. Again, if you have any ideas, feel free to open an issue on the [GitHub repo][issues]!
-
----
-
-## Updates
-
-2024-09-05: I found out that in order to have a custom icon for the app, I need to create a `.desktop` file and install it to the right place. This means I need to learn how to package the app properly for different distros or offer a Flatpak/AppImage. I'll look into it soon.
 
 [windot]: https://github.com/Lamby777/windot
 [issues]: https://github.com/Lamby777/windot/issues
