@@ -22,7 +22,7 @@ Here's a little bit of a preview of what it looks like:
 
 ## Installation
 
-I haven't uploaded binaries to any package managers myself, but I might someday. In the meantime, if anyone else would like to, that would be great too!
+I haven't uploaded binaries to any distro package repos myself, but I might someday. In the meantime, if anyone else would like to, that would be great too!
 
 To build from source, it requires a bunch of dependencies. Copy and run a line from below based on your distro:
 
@@ -109,6 +109,12 @@ Having absolutely zero knowledge on how to write a GTK app before starting this 
 ## Conclusion
 
 I hope you enjoy using `windot` for all your emoji-picking needs as much as I enjoyed working on it so far. I'm excited to see what the community thinks of it and what features they'd like to see next. Again, if you have any ideas, feel free to open an issue on the [GitHub repo][issues]!
+
+---
+
+## Updates
+
+2024-09-05: I found out that in order to have a custom icon for the app, I need to create a `.desktop` file and install it to the right place. This means I need to learn how to package the app properly for different distros or offer a Flatpak/AppImage. I'll look into it soon.
 
 [windot]: https://github.com/Lamby777/windot
 [issues]: https://github.com/Lamby777/windot/issues
