@@ -8,8 +8,10 @@ description: 'Some backstory on my first album, "Devon''s Cluckin'' Nonsense".'
 
 <!-- [![Cache Miss album cover](/assets/img/dcn/cachemiss.png){: width="200" }][cachemiss] -->
 
+<div markdown="1" align="center">
 [![Devon's Cluckin' Nonsense album cover](/assets/img/dcn/dcn_final.png){: width="200" }][dcn]
 [![Devon's Cluckin' Nonsense B-Sides album cover](/assets/img/dcn/dcn_bsides.jpg){: width="200" }][dcn-bsides]
+</div>
 
 ## Intro
 
