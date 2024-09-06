@@ -77,7 +77,7 @@ In terms of instruments, this track uses a fork and spoon! I recorded the clangi
 
 A lot of these tracks have been more of just "electronic/rock with phasers and flangers put over them", but this one is truly a track I'm willing to say is "actual" psychedelic rock. The track still to this day makes me feel a little dizzy, but in a good way. I wanted to make a track that sounded like the background music of a really long road trip. The guitar and main synth are pretty repetitive, but that's kinda the point. The track is supposed to be a little hypnotic, and I hope it's able to take you to that place.
 
-I'm so happy someone on YouTube commented that they liked the album and specifically this song. It really made my day. <3
+I'm so happy someone on YouTube commented that they liked the album and specifically this song. It really made my day. 💜
 
 I did a lot of "effect clownery" in this track:
 
@@ -92,7 +92,7 @@ Overall, I just really like effects plugins and automation! What more is there t
 
 I made this one in like 30-60 minutes just for fun. This is a remake of a track I made around 2021 called "Troublesome Modifications" for the P/E/T/S soundtrack. The original chords were Cm and A♭m, but I changed it to D and E to sound more upbeat. I used a classic 707 drum kit for that retro feel, and reused the External synth. For the bass, I tried something new; I used Ultra Analog Session 2, a plugin that came with my MIDI keyboard for free. I like how the bass on this track turned out, although in hindsight I feel I made the classic noob mistake of mixing the bass too loud relative to the other instruments. I don't really mind it, though. As a wise Reddit comment once told me, "if it sounds good, it sounds good." 🔥
 
-The chords D and E may sound familiar to you from the section about External Data Bus. Well, this track was the _second_ one I recorded on my guitar, and it's the same chords as External Data Bus. I guess beginner me just really liked those 2 chords, looking for any possible song to play using them. It is what it is. 😅
+The chords D and E may sound familiar to you from the section about _External Data Bus_. Well, this track was the _second_ one I recorded on my guitar, and it's the same chords as _External Data Bus_. I guess beginner me just really liked those 2 chords, looking for any possible song to play using them. It is what it is. 😅
 
 ### Purple Girl
 
@@ -132,7 +132,107 @@ I ultimately settled on this idea from a friend, because `volatile` is a keyword
 
 ### Album Covers
 
-Here are some unused covers for the album, its B-sides, and taken down singles:
+Here are the first and second covers for "Volatile Dream," making a reference to a line from _From\<Fire\>_. The first one was for the WIP tracks, so it's a pretty rough doodle. It's overlayed with a Quine program in Python, which just means it's a program that prints its own source code. I made it fancy with matrix effects and stuff on the quine output as well. The second one includes some Rust code at the bottom, but I went for a more simple design. There's an easter egg in the WIP sketch. See if you can find it. 😉
+
+![Volatile Dream WIPs](/assets/img/dcn/voldream_wip.jpg){: .w-25 .normal }
+![Volatile Dream](/assets/img/dcn/voldream.png){: .w-25 .normal }
+
+The deobfuscated "fancy" quine code is as follows:
+
+<details markdown="1">
+<summary>Click to view the code</summary>
+
+```python
+from random import randint
+import sys, inspect, os
+
+FADE_SPEED = 1
+SPILL_RARITY = 10
+
+# white and a bunch of grays
+
+# https://www.ditig.com/256-colors-cheat-sheet
+
+WHITE = 15
+CODE_COLOR = 14
+FADE_COLORS = [WHITE] + list(range(255, 231, -FADE_SPEED))
+
+
+def colored(text, color):
+    return f"\x1b[38;5;{color}m{text}\x1b[0m"
+
+
+def roll_chance(chance: int) -> bool:
+    return randint(1, chance) == 1
+
+
+def spill_effect(input_string: str) -> str:
+    lines = input_string.split("\n")
+    width = max([len(x) for x in lines])
+    lines = [x.ljust(width) for x in lines]
+
+    # Stuck column => Line number to copy from
+    stuck = {}
+
+    # stuck chars fade to black, so this calculates
+    # how many rows ago the char was stuck
+    def get_color(row: int, col: int) -> int:
+        stuck_start = stuck.get(col)
+
+        if stuck_start is None:
+            return WHITE
+
+        ago = row - stuck_start
+        return FADE_COLORS[min(ago, len(FADE_COLORS) - 1)]
+
+    res = []
+
+    for lineno, line in enumerate(lines):
+        for i, ch in enumerate(line):
+            if ch.isspace():
+                continue
+
+            if roll_chance(SPILL_RARITY):
+                stuck[i] = lineno
+
+        def process_char(col: int) -> str:
+            current_ch = line[col]
+            if not current_ch.isspace():
+                return colored(current_ch, CODE_COLOR)
+
+            st = stuck.get(col)
+            ch_to_print = lines[st][col] if st else current_ch
+            return colored(ch_to_print, get_color(lineno, col))
+
+        glitched_line = [process_char(col) for col in range(width)]
+        res.append("".join(glitched_line))
+
+    return "\n".join(res)
+
+
+frame = inspect.currentframe() or sys.exit()
+quine = inspect.getsource(frame)
+quine = spill_effect(quine)
+print(quine, end="")
+
+os.remove(__file__)
+```
+
+</details>
+
+Here are some more unused covers for the album. I made them all myself in Blender. At first, I wanted to make a chicken with some nacho cheese, but it felt a little off, so I went to make a second more simpler cover with a striped pattern. I ended up not using the striped ones because it didn't seem creative enough to just put a chicken over a striped background that doesn't really have a meaning. It also felt too similar to the background of Melophobia by Cage the Elephant. So yeah, I scrapped that idea and went back to the first revision. The one without flowing nacho cheese just felt like something was missing, and the nacho cheese flowing from the top of the cover was a little odd.
+
+![DCN In The Dark](/assets/img/dcn/dcn_dark.png){: .w-25 .normal }
+![DCN without nacho cheese](/assets/img/dcn/dcn_no_nachos.png){: .w-25 .normal }
+![DCN Stripes](/assets/img/dcn/dcn_stripes.png){: .w-25 .normal }
+
+And these are some from singles that were taken down:
+
+![Better Than Never](/assets/img/dcn/better.png){: .w-25 .normal }
+![Daydream v2](/assets/img/dcn/daydream-v2.png){: .w-25 .normal }
+![F.A.L.G.S.C.](/assets/img/dcn/falgsc.png){: .w-25 .normal }
+
+Test
 
 ---
 
