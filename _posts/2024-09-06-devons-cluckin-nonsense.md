@@ -6,8 +6,23 @@ categories: music
 description: 'Some backstory on my first album, "Devon''s Cluckin'' Nonsense".'
 ---
 
+<img alt="Cache Miss album cover" src="/assets/img/dcn/cachemiss.png" width="200">
+<img alt="Devon's Cluckin' Nonsense album cover" src="/assets/img/dcn/dcn_final.png" width="200">
+
 ## Intro
 
-As of today, _Cache Miss_, my second album, is now available on streaming services. To celebrate, I thought I'd take a moment to look back at what went on in the creation of my first album, _Devon's Cluckin' Nonsense_.
+As of today, _Cache Miss_, my second indie album, is now available on streaming services. To celebrate, I thought I'd take a moment to look back at what went on in the creation of my first album, _Devon's Cluckin' Nonsense_.
 
-![Devon's Cluckin' Nonsense album cover](/assets/img/dcn/cover.png)
+Curious? Put one on in the background while you read this post! :)
+
+|                                                                     |
+| ------------------------------------------------------------------- |
+| [Devon's Cluckin' Nonsense][dcn]                                    |
+| [Devon's Cluckin' Nonsense (B-Sides and Instrumentals)][dcn-bsides] |
+| [Cache Miss][cachemiss]                                             |
+
+So why is this chicken surfing on a tortilla chip over a stream of nacho cheese in space? Let's find out.
+
+[dcn]: https://music.youtube.com/playlist?list=OLAK5uy_nD2si-l611IG1UY6LTJFPZuMsNFjUDJ7A&si=XVzxWAUzvYdSk5vt
+[dcn-bsides]: https://music.youtube.com/playlist?list=OLAK5uy_lmySBmds7VLgP68vZPKsHHIXcXBMb1Lb0&si=_12-bkc4VsnWbkbb
+[cachemiss]: https://music.youtube.com/playlist?list=OLAK5uy_lsdwNsWP7O0TkIWQFfZkqWHcPc9Ryo1bg&si=clGxq7x1dEQBAKDD
