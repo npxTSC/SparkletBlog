@@ -3,7 +3,7 @@ layout: post
 title: "Behind the Scenes - Devon's Cluckin' Nonsense!"
 date: 2024-09-06 14:20:00 -0400
 categories: music
-description: 'Some backstory on my first album, "Devon''s Cluckin'' Nonsense".'
+description: 'Some thoughts, tricks, and backstory on my first album, "Devon''s Cluckin'' Nonsense".'
 ---
 
 <div markdown="1" align="center">
@@ -84,7 +84,9 @@ I did a lot of "effect clownery" in this track:
 - I hard-panned the sampled guitar to one side, inspired by the piano part in the beginning of Apocalypse Dreams by Tame Impala. I used to absolutely hate hard-panning in music I'd listen to, but his music showed me it's not so bad if you can do it right. I'll try to do it more often in the future, and more subtly to avoid pissing off people like myself.
 - I got a little creative and made it so the piano has a delay effect on it, but only on the high frequencies. This makes it sound a little bit like a bell or chime. Sorta makes it stand out more in the mix, you know?
 - The master track even has a flanger + tremolo patcher and a mono + phaser + auto-panning patcher as well. Yes, that part near the end sounds the way it does because the entire track is being combined into a mono signal and then put through a phaser to make it stereo again.
+  - ![Master track mono effect](/assets/img/dcn/mono-pan-phase.png){: .w-50 }
 - I used this one free plugin called STFU (very epic plugin name) by Zeek Audio for sidechaining, but very explicitly. I love using this plugin subtly in most of my tracks, but in this one, it made for a neat "break" from the repetition when I turn it on for a measure right after the mono phaser part.
+  - ![STFU sidechain](/assets/img/dcn/zeek-stfu.png){: .w-50 }
 
 Overall, I just really like effects plugins and automation! What more is there to say? 😅
 
@@ -92,13 +94,35 @@ Overall, I just really like effects plugins and automation! What more is there t
 
 I made this one in like 30-60 minutes just for fun. This is a remake of a track I made around 2021 called "Troublesome Modifications" for the P/E/T/S soundtrack. The original chords were Cm and A♭m, but I changed it to D and E to sound more upbeat. I used a classic 707 drum kit for that retro feel, and reused the External synth. For the bass, I tried something new; I used Ultra Analog Session 2, a plugin that came with my MIDI keyboard for free. I like how the bass on this track turned out, although in hindsight I feel I made the classic noob mistake of mixing the bass too loud relative to the other instruments. I don't really mind it, though. As a wise Reddit comment once told me, "if it sounds good, it sounds good." 🔥
 
+One trick I love to use that's especially noticeable on this track is to hard-pan an instrument to the left, and send its reverb to the right (or vice versa). It's a neat way to make the stereo field wider without making the track sound too muddy. I did that on the guitar but also the high-pitched synth (not External but the other one) on this track.
+
+![Hard-panning trick](/assets/img/dcn/patcher-hardpan.png){: .w-50 }
+
 The chords D and E may sound familiar to you from the section about _External Data Bus_. Well, this track was the _second_ one I recorded on my guitar, and it's the same chords as _External Data Bus_. I guess beginner me just really liked those 2 chords, looking for any possible song to play using them. It is what it is. 😅
 
 ### Purple Girl
 
-This is probably my favorite song on the album, although personally I prefer the instrumental over the one with lyrics. It's the most "complete" track I've ever made, and it's the one I'm most proud of.
+This is probably my favorite song on the album, although personally I prefer the instrumental over the one with lyrics. It's the most "complete" track I've ever made, and it's the one I'm most proud of. I had a listen to _Let it Happen_ by Tame Impala and thought the pattern of repeating every 3 bars instead of 4 was really interesting so I gave it a shot in my own style with my own chords and melody. The drum beat is the usual, but with way more cymbal stuff going on instead of the hi hat rolls. The last piano bit is a result of just forcing myself to improv some rhythm in the song's key, and although I suck at improv, it wasn't too difficult since the track is in C Major.
+
+I got permission from FairyPrincessLucy, a voice tutorial creator on YouTube, to use a segment of one of her videos in the song. The video was somewhat inspirational to me at the time, and I thought it would be a nice touch to include it in the song. It matches the theme of the song, which is about life as a trans person who still hasn't come out to anyone yet and is absolutely terrified of doing so. The "try something" in this case would be to come out to your parents, while the "continue to be unhappy" is the option of doing nothing because you're afraid for your future and what might happen if you do.
+
+Remember how I said I used the External synth in _External Data Bus_? Well, I used it in this track too, but with a twist. I automated the decay time so that at first when it plays the C/E chord, the synth sounds more like a pluck or stab, whereas when it plays B/D, it sounds more like a pad. Yeah, that's the same exact synth, just with one parameter now automated! I thought it was a creative way to make the synth sound more dynamic without having to mess with effects or anything. Wub wub wub. 🥸
+
+![Hard clipping](/assets/img/dcn/waveshaper.png){: .w-25 .right }
+
+Now, why purple? Because I started liking purple and black more than orange around the same time I started high school and my egg cracked. The song is written in third person. That's all there really is to it. More on this in the _From\<Fire\>_ section.
+
+One trick I used extensively in this track is to just slap on a hard clipper to get a little extra loudness out of a few mixer tracks. I don't know if this even counts as a "trick" because most producers do this anyway, but this track was one of the first times I really used it all over the place. Even on the spoken word part at the end, I put a hard clipper over it to give the voice that gritty color.
+
+Anyway, I have this song stuck in my head now because I played it to practice "songs with Bmin" on guitar, so that's nice. 😅
 
 ### Identity Function
+
+This one used to have lyrics as well, but honestly I just thought they were too cringe to include. I drew some heavy inspiration from Dual Core's track _All The Things_, which I originally found out about through my favorite podcast _Darknet Diaries_. After discovering the genre of "nerdcore," I knew I had to give it a try. Maybe someday I'll release a version with lyrics, but for now, it's just an instrumental because I still like how the mix turned out enough to upload it.
+
+The main synth is built from a square wave in Sytrus. Not much else to it. This track doesn't have that many instruments playing at once.
+
+Again with the WaveShaper. I soft-clipped the flute-like sample to make it sound really distorted near the end. 🤘
 
 ### From\<Fire\>
 
