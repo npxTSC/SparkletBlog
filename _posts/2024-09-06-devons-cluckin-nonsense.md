@@ -6,14 +6,16 @@ categories: music
 description: 'Some backstory on my first album, "Devon''s Cluckin'' Nonsense".'
 ---
 
-<img alt="Cache Miss album cover" src="/assets/img/dcn/cachemiss.png" width="200">
-<img alt="Devon's Cluckin' Nonsense album cover" src="/assets/img/dcn/dcn_final.png" width="200">
+<!-- [![Cache Miss album cover](/assets/img/dcn/cachemiss.png){: width="200" }][cachemiss] -->
+
+[![Devon's Cluckin' Nonsense album cover](/assets/img/dcn/dcn_final.png){: width="200" }][dcn]
+[![Devon's Cluckin' Nonsense B-Sides album cover](/assets/img/dcn/dcn_bsides.jpg){: width="200" }][dcn-bsides]
 
 ## Intro
 
 As of today, _Cache Miss_, my second indie album, is now available on streaming services. To celebrate, I thought I'd take a moment to look back at what went on in the creation of my first album, _Devon's Cluckin' Nonsense_.
 
-Curious? Put one on in the background while you read this post! :)
+Curious? Put one on in the background while you read this post! The images above are clickable. :)
 
 |                                                                     |
 | ------------------------------------------------------------------- |
