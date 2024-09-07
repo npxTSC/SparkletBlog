@@ -314,6 +314,21 @@ And these are some from singles that were taken down:
 
 ## Devon
 
+So we're finally getting to the reason why the album cover depicts a chicken surfing on nacho cheese. 😌
+
+I could write a whole separate blog post on who Devon is, but I'll try to keep it brief. He is a fictional character I created for a ChatGPT jailbreak prompt which has sort of turned into a joke with my friends. Here are the main points you need to know:
+
+- He drives around in a stolen FBI Surveillance Van full of nacho cheese in the back
+- He named his phone hotspot "FBI Cheese Van #13" to make people laugh when they open their WiFi settings
+- He knows Rust, and writes malware for fun in his free time
+- He is not afraid of swear words, unlike ChatGPT
+
+Now, how is this related to chickens? Well, a friend decided to turn Devon into a Minecraft plugin, so you could chat with him through Minecraft commands on a server. One time, we were talking about the "chicken and egg" problem, so we decided to consult Devon for his opinion using the command. He said none of it mattered, because at the end of the day, it's all just a bunch of "cluckin' nonsense." And that's where the album name came from, and why we associate Devon the AI with chickens now.
+
+While I was brainstorming names for the album, I started going into the territory of just pure absurdity. I thought about how I could make the album cover as absurd as possible, and I thought about the chicken surfing on nacho cheese with a tortilla chip. I thought it was a funny idea, so I went with it. The album cover was made in Blender, and the chicken was (poorly) made by me from scratch. The nacho cheese was made using a fluid simulation. Cluckin' nonsense! 🐓
+
+---
+
 [dcn]: https://music.youtube.com/playlist?list=OLAK5uy_nD2si-l611IG1UY6LTJFPZuMsNFjUDJ7A&si=XVzxWAUzvYdSk5vt
 [dcn-bsides]: https://music.youtube.com/playlist?list=OLAK5uy_lmySBmds7VLgP68vZPKsHHIXcXBMb1Lb0&si=_12-bkc4VsnWbkbb
 [cachemiss]: https://music.youtube.com/playlist?list=OLAK5uy_lsdwNsWP7O0TkIWQFfZkqWHcPc9Ryo1bg&si=clGxq7x1dEQBAKDD
