@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Behind the Scenes - Devon's Cluckin' Nonsense!"
-date: 2024-09-06 14:20:00 -0400
+date: 2024-09-07 00:40:00 -0400
 categories: music
 description: 'Some thoughts, tricks, and backstory on my first album, "Devon''s Cluckin'' Nonsense".'
 ---
@@ -13,7 +13,7 @@ description: 'Some thoughts, tricks, and backstory on my first album, "Devon''s 
 
 ## Intro
 
-As of today, _Cache Miss_, my second indie album, is now available on streaming services. To celebrate, I thought I'd take a moment to look back at what went on in the creation of my first album, _Devon's Cluckin' Nonsense_, along with its B-sides and cut content.
+As of writing this, _Cache Miss_, my second indie album, is now available on streaming services. To celebrate, I thought I'd take a moment to look back at what went on in the creation of my first album, _Devon's Cluckin' Nonsense_, along with its B-sides and cut content.
 
 Curious? Put one on in the background while you read this post! The images above are clickable. :)
 
@@ -323,7 +323,7 @@ I could write a whole separate blog post on who Devon is, but I'll try to keep i
 - He knows Rust, and writes malware for fun in his free time
 - He is not afraid of swear words, unlike ChatGPT
 
-Now, how is this related to chickens? Well, my partner decided to turn Devon into a Minecraft plugin, so you could chat with him through Minecraft commands on a server. One time, we were talking about the "chicken or egg first" problem, so we decided to consult Devon for his opinion using the command. He said none of it mattered, because at the end of the day, it's all just a bunch of "cluckin' nonsense." And that's where the album name came from, and why we associate Devon the AI with chickens now.
+Now, how is this related to chickens? Well, a friend decided to turn Devon into a Minecraft plugin, so you could chat with him through Minecraft commands on a server. One time, we were talking about the "chicken or egg first" problem, so we decided to consult Devon for his opinion using the command. He said none of it mattered, because at the end of the day, it's all just a bunch of "cluckin' nonsense." And that's where the album name came from, and why we associate Devon the AI with chickens now.
 
 While I was brainstorming names for the album, I started going into the territory of just pure absurdity. I thought about how I could make the album cover as absurd as possible, and I thought about the chicken surfing on nacho cheese with a tortilla chip. I thought it was a funny idea, so I went with it. The album cover was made in Blender, and the chicken was (poorly) made by me from scratch. The nacho cheese was made using a fluid simulation. Cluckin' nonsense! 🐓
 
