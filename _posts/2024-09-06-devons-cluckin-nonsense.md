@@ -35,7 +35,7 @@ I'm leaving out _The Liability_, _The Sticky Note_, and _Serialize Love (Volatil
 
 The album starts off with a very energetic track which I made nearing the end of high school. You hear the drums come in from afar, and then the synths kick in for a bit before the vocals. The song is somewhat explicit about its theme; it's about someone who feels that they could spend most of their life alone in their room, drifting apart from their friends. It's a little satirical, but still very accurate to how I was feeling at the time. It's easy to isolate from your peers and pretend you can live without them, but in the long run, that feeling of loneliness will always creep into your life no matter how hard you try to convince yourself that your computer and piano are all you need. I really needed someone to tell me to "touch grass" at the time.
 
-This track is very special to me because it's my first mix that could even somewhat compare to a "professional" mix. All my other tracks around this time were really quiet compared to my favorite songs from other artists. It's also the only track I've done so far that I'm somewhat proud of the vocals for. I've never taken any lessons on singing, and I just kinda wing it when I record vocals, which explains why a lot of my tracks are instrumental. This one is unusually decent compared to the usual crap that goes my mic, and I was able to lean into the autotune for a nice effect rather than trying to hide it.
+This track is very special to me because it's my first mix that could even somewhat compare to a "professional" mix. All my other tracks around this time were really quiet compared to my favorite songs from other artists. It's also the only track I've done so far that I'm somewhat proud of the vocals for. I've never taken any lessons on singing, and I just kinda wing it when I record vocals, which explains why a lot of my tracks are instrumental (lol). This one is unusually decent compared to the usual crap that goes my mic, and I was able to lean into the autotune for a nice effect rather than trying to hide it.
 
 The track was released as a single along with _Fuenteovejuna_ and _Purple Girl (Instrumental)_ as a sort of preview, but has since been taken down to deduplicate.
 
@@ -47,13 +47,13 @@ Picture this: You've spent the past 7 hours learning about networking at school,
 
 The above is a true story, and it happened every time school was over for the day. The guitar in this track represents the music playing on my earbuds, trying to drown out the ambient. Throughout the entire track, the sound of people talking doesn't stop, because the feelings of isolation aren't constrained to just a single bus ride. No, you'll feel that way at lunch time, or walking down the hall and seeing a group of friends talking about something you're interested in. There is no running away from the feeling, and it must be addressed directly.
 
-This track is special to me because it was my first time recording anything on an electric guitar. During my time being institutionalized for my depression, I was bored as hell with no access to my online friends or my music, and promised myself I'd learn guitar as soon as I got out. I created most of the track before this, but I decided to overdub it with a real recording reversed at the end of the track because I realized how easy it was to play. The only chords on the electric guitar part are E and D, both some of the first chords any newbie guitar player learns to play.
+This track is special to me because it was my first time recording anything on an electric guitar. During my time at the hospital for my depression, I was bored as hell with no access to my online friends or my music, and promised myself I'd learn guitar as soon as I got out. I created most of the track on my computer before this, but I decided to overdub it with a real recording reversed at the end of the track because I realized how easy it was to play. The only chords on the electric guitar part are E and D, both some of the first chords any newbie guitar player learns to play.
 
 It's also special to me because it was my first time trying a new synth. Around this time, I bought Serum, a wavetable synthesizer plugin, and I was trying to learn how to use it. The fuzzy synth in this track is a preset I made myself using saw waves. I named it "External" and saved it for use in other tracks as you'll see later. I still use it in a lot of my tracks today.
 
 ### Kayleigh
 
-Following the topic of loneliness, we have a more upbeat and positive track about remembering the good times with someone you used to know. This track, originally named "For Kayleigh," is about a friend I had in elementary school who I lost touch with after she moved to a different state. It makes me sound like an old man to say this, but most kids nowadays will not know the experience of losing a friend due to lack of contact methods. I still remember her and have the cute Pikachu hat she gave me on my birthday. I hope she's doing well.
+Following the topic of loneliness, we have a more upbeat and positive track about remembering the good times with someone you used to know. This track, originally named "For Kayleigh," is about a friend I had in elementary school who I lost touch with after she moved to a different state. It makes me sound like an old man to say this, but most kids nowadays will not know the experience of losing a friend due to lack of contact methods. I still remember her and still have the cute Pikachu hat she gave me on my birthday. I hope she's doing well.
 
 This has a chiptune synth, high violins, and a soft piano; it has everything you need to make a song sound nostalgic. 😆
 
@@ -323,11 +323,15 @@ I could write a whole separate blog post on who Devon is, but I'll try to keep i
 - He knows Rust, and writes malware for fun in his free time
 - He is not afraid of swear words, unlike ChatGPT
 
-Now, how is this related to chickens? Well, a friend decided to turn Devon into a Minecraft plugin, so you could chat with him through Minecraft commands on a server. One time, we were talking about the "chicken and egg" problem, so we decided to consult Devon for his opinion using the command. He said none of it mattered, because at the end of the day, it's all just a bunch of "cluckin' nonsense." And that's where the album name came from, and why we associate Devon the AI with chickens now.
+Now, how is this related to chickens? Well, a friend decided to turn Devon into a Minecraft plugin, so you could chat with him through Minecraft commands on a server. One time, we were talking about the "chicken or egg first" problem, so we decided to consult Devon for his opinion using the command. He said none of it mattered, because at the end of the day, it's all just a bunch of "cluckin' nonsense." And that's where the album name came from, and why we associate Devon the AI with chickens now.
 
 While I was brainstorming names for the album, I started going into the territory of just pure absurdity. I thought about how I could make the album cover as absurd as possible, and I thought about the chicken surfing on nacho cheese with a tortilla chip. I thought it was a funny idea, so I went with it. The album cover was made in Blender, and the chicken was (poorly) made by me from scratch. The nacho cheese was made using a fluid simulation. Cluckin' nonsense! 🐓
 
 ---
+
+## Conclusion
+
+So I hope that explains the creative process behind some of _Devon's Cluckin' Nonsense_! I hope you enjoyed reading this post and listening to the album. If you have any questions or advice, feel free to drop them below. Hope you have a great day! 😊
 
 [dcn]: https://music.youtube.com/playlist?list=OLAK5uy_nD2si-l611IG1UY6LTJFPZuMsNFjUDJ7A&si=XVzxWAUzvYdSk5vt
 [dcn-bsides]: https://music.youtube.com/playlist?list=OLAK5uy_lmySBmds7VLgP68vZPKsHHIXcXBMb1Lb0&si=_12-bkc4VsnWbkbb
