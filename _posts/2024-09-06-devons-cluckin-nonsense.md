@@ -17,7 +17,7 @@ As of today, _Cache Miss_, my second indie album, is now available on streaming 
 
 Curious? Put one on in the background while you read this post! The images above are clickable. :)
 
-So why is this chicken surfing on a tortilla chip over a stream of nacho cheese in space? Read on to find out.
+So why is this chicken surfing on a tortilla chip over a stream of nacho cheese in space? Read on to find out. (or skip to the [Devon](#devon) section if you're busy)
 
 ---
 
@@ -29,13 +29,15 @@ Devon's Cluckin' Nonsense as a whole is a collection of tracks I made during a p
 
 ## The Tracks
 
+I'm leaving out _The Liability_, _The Sticky Note_, and _Serialize Love (Volatile Mix)_ because there isn't really much to say about them. I made them just for fun, and didn't really put much thought or meaning into them. They're just beats for the sake of beats. I'm also not including any tracks from singles that were "taken down" before later being reuploaded as part of _Cache Miss_. If you have any specific questions, I'd still be willing to answer them. 😊
+
 ### Sour Grapes
 
 The album starts off with a very energetic track which I made nearing the end of high school. You hear the drums come in from afar, and then the synths kick in for a bit before the vocals. The song is somewhat explicit about its theme; it's about someone who feels that they could spend most of their life alone in their room, drifting apart from their friends. It's a little satirical, but still very accurate to how I was feeling at the time. It's easy to isolate from your peers and pretend you can live without them, but in the long run, that feeling of loneliness will always creep into your life no matter how hard you try to convince yourself that your computer and piano are all you need. I really needed someone to tell me to "touch grass" at the time.
 
 This track is very special to me because it's my first mix that could even somewhat compare to a "professional" mix. All my other tracks around this time were really quiet compared to my favorite songs from other artists. It's also the only track I've done so far that I'm somewhat proud of the vocals for. I've never taken any lessons on singing, and I just kinda wing it when I record vocals, which explains why a lot of my tracks are instrumental. This one is unusually decent compared to the usual crap that goes my mic, and I was able to lean into the autotune for a nice effect rather than trying to hide it.
 
-The track was released as a single along with Fuenteovejuna and Purple Girl (Instrumental) as a sort of preview, but has since been taken down to deduplicate.
+The track was released as a single along with _Fuenteovejuna_ and _Purple Girl (Instrumental)_ as a sort of preview, but has since been taken down to deduplicate.
 
 ![Sour Grapes single cover](/assets/img/dcn/sourgrapes.png){: width="200" align="center" }
 
@@ -69,9 +71,11 @@ The piano and synth combo thing at the end is actually a preset I use in a lot o
 
 _"Oh, I can't believe the sun is gaining height, oh wait, I've been staring at this screen for 50 nights!"_
 
-No Dice, No Signal was at first a song about the feeling of never being able to quite make friends. Every friend I've ever made was from pure chance and circumstance. I've never really been able to go up to someone and just ask if they want to be friends. I've always been too scared to do that, ever since I was little and someone on the playground told me you "can't be friends with someone you just met." Being an undiagnosed autistic person back then didn't help either. This track did have lyrics, but I cut them out as it was a little too personal to include on my first album. I guess just come up with your own lyrics for this one...? 😅
+_No Dice, No Signal_ was at first a song about the feeling of never being able to quite make friends. Every friend I've ever made was from pure chance and circumstance. I've never really been able to go up to someone and just ask if they want to be friends. I've always been too scared to do that, ever since I was little and someone on the playground told me you "can't be friends with someone you just met." Being an undiagnosed autistic person back then didn't help either. This track did have lyrics, but I cut them out as it was a little too personal to include on my first album. I guess just come up with your own lyrics for this one...? 😅
 
 In terms of instruments, this track uses a fork and spoon! I recorded the clanging of a fork and spoon together and dropped it right into a sampler and used it just like any other drum sample starting from the middle section. If I recall correctly, this track uses the External synth as well (although very high-pitched), nearing the end.
+
+**_"Guess I'll redirect my feelings to /dev/null!"_**
 
 ### Keep Your Eyes On The Road
 
@@ -100,6 +104,8 @@ One trick I love to use that's especially noticeable on this track is to hard-pa
 
 The chords D and E may sound familiar to you from the section about _External Data Bus_. Well, this track was the _second_ one I recorded on my guitar, and it's the same chords as _External Data Bus_. I guess beginner me just really liked those 2 chords, looking for any possible song to play using them. It is what it is. 😅
 
+I was worried about the length, but one of my friends assured me that sometimes it's fine to cut a track short if you think that's the best it'll ever be. I'm glad I did, because otherwise the track would have probably been very repetitive.
+
 ### Purple Girl
 
 This is probably my favorite song on the album, although personally I prefer the instrumental over the one with lyrics. It's the most "complete" track I've ever made, and it's the one I'm most proud of. I had a listen to _Let it Happen_ by Tame Impala and thought the pattern of repeating every 3 bars instead of 4 was really interesting so I gave it a shot in my own style with my own chords and melody. The drum beat is the usual, but with way more cymbal stuff going on instead of the hi hat rolls. The last piano bit is a result of just forcing myself to improv some rhythm in the song's key, and although I suck at improv, it wasn't too difficult since the track is in C Major.
@@ -118,7 +124,7 @@ Anyway, I have this song stuck in my head now because I played it to practice "s
 
 ### Identity Function
 
-This one used to have lyrics as well, but honestly I just thought they were too cringe to include. I drew some heavy inspiration from Dual Core's track _All The Things_, which I originally found out about through my favorite podcast _Darknet Diaries_. After discovering the genre of "nerdcore," I knew I had to give it a try. Maybe someday I'll release a version with lyrics, but for now, it's just an instrumental because I still like how the mix turned out enough to upload it.
+This one used to have lyrics as well, but honestly I just thought they were too cringe to include. I drew some heavy inspiration from Dual Core's track _All The Things_, which I originally found out about through my favorite podcast _Darknet Diaries_. After discovering the genre of "nerdcore," I knew I had to give it a try. Maybe someday I'll release a version with lyrics, but for now, it's just an instrumental because I still kinda like how the mix turned out enough to upload it. Not really one of my favorites, but it's whatever.
 
 The main synth is built from a square wave in Sytrus. Not much else to it. This track doesn't have that many instruments playing at once.
 
@@ -126,19 +132,67 @@ Again with the WaveShaper. I soft-clipped the flute-like sample to make it sound
 
 ### From\<Fire\>
 
-### The Liability
+First of all, it pisses me off that I can't use the angle bracket symbols in a song title. It's 2024, people. **_Escape_** your damn inputs, **_don't_** sanitize them! It's not my fault you don't know how to code! Anyway, secondly, I deeply regret uploading this track too early. The instrumental in the B-sides is mastered properly (at least to my standards), but the original one with lyrics sounds too damn quiet because I was a noob back then. Oh, well. I'll just have to live with it.
 
-### The Sticky Note
+Back on topic, this track is all about burnout and coming of age. Get it? Burnout? Fire? It's 3 different jokes in one title. Whatever. 😛
+
+It's about the feeling of being overwhelmed with the concept of moving out and being independent from your parents. This again ties into what I said in _Purple Girl_ about not coming out; this track is a bit about the feeling of having to race the clock to be independent before you can live the way you want... but it's a vicious cycle! Thinking too much about wanting to be independent can make the negative thoughts just consume your mind all day and night, which makes you unable to function and do all the things required in order to be independent. I'd rather leave the actual lyrics in this one up to interpretation, though.
+
+In terms of mixing, I panned a lot to keep stuff sounding separate here. Piano to the right, guitar synth to the left, organ synth slightly left to balance out the piano, and flute further right just to fill that space.
+
+The vocals are kinda meh on this track. Don't really like how they turned out, personally. I only record when I'm home alone, and I was desperate for just an hour to record. It probably would have sounded better if I had more time. At least something I liked about working on vocals here was the sheer number of effects I was able to spam:
+
+- Used a plugin called MAutoPitch to formant shift the vocals. When I sang "Why would you run from the guy?", I was able to make it sound really deep, as if it's someone else asking me that same question.
+- Used Fruity Squeeze and MTremolo to bitcrush the vocals. There were a few parts where I didn't really want the words to be as audible, so I just bitcrushed them a bit, rather than making an annoying cut-out in the audio clip. It also helps achieve that separation of who's speaking in the song, for example when I say "I don't even know."
+
+A little backstory: this track was originally a part of the P/E/T/S soundtrack, but I decided to copy it, redo the mix, and add lyrics to upload as a part of this album. If I remember correctly, this was the 1 track that inspired me to start an actual album, as before this I was only making music for the game. Having started it so early, you could technically say I spent a "whole year" on this, but most of that time was spent ignoring this project in my "do later" folder. This is also where the line "purple and black" comes from; the track is Agent Cascade's theme. She has a similar life situation to what I do, and her clothes' colors are purple and black.
+
+Oddly enough, my inspiration was the Team Flare battle theme from Pokémon X and Y. I was on a flight, playing the game on my 3DS for the 32767th time, and I was like... "Hey, I could make a track that sounds this fire-y and hot, but maybe a little calmer! Yeah, that could work. That could work." It's the whole reason I had the idea to use an organ synth, too. I composed it as soon as I got home, while in the middle of drying my hair after a shower. 😆
+
+> It's 3 different jokes in one title.
+
+If you know the other 2 things the title is a reference to, you get a free reward of: absolutely nothing. 😃
+
+💜 **Fleeing Blissfully!** 💜
 
 ### Falling, Falling
 
+Nearing the end of the album, I wanted to start putting more "chill" tracks in. While this one does have a pretty heavy drum beat, it's definitely more relaxing than the other tracks. _Falling, Falling_ is something I came up with while messing around on guitar. I switched between D and Dmaj7, and realized it sounded kinda nostalgic. I then added a simple melody on top of it, and the track was born. That's why it's so short; I wanted it to be something small and sweet to lead into the final track.
+
 ### Let Those Colors Run
 
-### Serialize Love (Volatile Mix)
+And there we have it, the final track of the album. Ending on the most calm track of them all, this one was written on the last day of Pride Month and is about exactly what it sounds like: not having to hide who you are anymore. The theme of the album slowly shifts from isolation, to anxiety about the future, to finally hopeful optimism. It's a nice way to end the album, and I'm glad I gave it a try. Once again, I ran short on recording time, except none of my recordings were remotely viable so I decided to make the track entirely instrumental rather than waiting another month or so for more time alone.
+
+The sample that plays after the intro and kicks in at the end again is actually the sound of a pig oinking! I got it from a royalty-free sound effects website, and I thought it would be a neat touch to include it in the track just for fun. I distorted it to hell and back, then pitched it down quite a bit, and put a chorus over it to make it sound less overpowering over the other instruments. I love pigs! 🐷
+
+The title is a tribute to Tame Impala, as he was a huge influence on me during the creation of this album.
 
 ### Fuenteovejuna
 
+I'm not really a lofi hip-hop creator, but I wanted to give it a shot. It's a fairly simple track, with only a few instruments, but I put more of my focus on the effects chains. Some notable effects combos include:
+
+- Reverb on a Rhodes piano. It makes it sound kinda nostalgic and soft, and puts the piano a little further back in the mix.
+- Transient Processor on literally everything. Don't ask why I did this, because I don't remember and it's super cursed. 😬
+  - But it sounds good, so I guess that's all that matters.
+- Ping-pong delay on the clack sound with high feedback. Any time the clack sound is rolled, the delay makes it sound like it's bouncing all around the room. Pretty nice effect, but I wouldn't use it often. It really fits this track, though.
+
+You may recognize the bells part in this track as the same melody from _From\<Fire\>_. This has no real meaning, and was just done for fun (or maybe it was stuck in my head... who knows? 😊).
+
+This track was cut from the album because it was a little too different from the rest of the tracks. I still like it, though, so I decided to include it in the B-sides.
+
 ### Better Than Never
+
+While this one has the most likes out of all my tracks, I really think it might be one of my worst. Just an opinion.
+
+This track was made while I was in quite the pickle. I had a crush on my friend from school, but they seemed to already be in a relationship with someone else, though I never confirmed it. Upon having this suspicion, I felt really down, because I was of the opinion that my friend would be objectively better off with the other person than with me, so I didn't know what to do with my feelings. Knowing I'd never willingly confess my feelings to them, I decided to make a track about it instead as a form of catharsis. The title comes from the fact that not asking someone out leaves your relationship in a superposition of "maybe someday" which is better than getting a response of "no" and knowing you'll never be with them.
+
+It's weird, because later on, I found out my friend was actually single and was trying to distance themselves from the other friend due to some uncomfortable texts. I guess I just misinterpreted the situation, but I'm glad I made the track anyway. It's a good reminder to me that sometimes, things aren't what they seem.
+
+Alright, enough relationship drama. Let's talk about the track itself. This was my first time using a vocoder in any of my tracks. For those who don't know what a vocoder is, think of Daft Punk's _Around the World_ or _Harder, Better, Faster, Stronger_. It's that robotic voice effect, done by playing a synth and using vocals to modulate which frequencies of that synth are played. I used the vocoder to make the second part's vocals sound more robotic to give the track a more "electronic" feel.
+
+This track also makes heavy use of STFU, the sidechain plugin I mentioned earlier. I used it to make the drums really punchy, and make them cut through the cello and bass.
+
+This track was cut from the album simply because it doesn't fit the themes of isolation and identity, and I also didn't think anyone would like it. Guess I was wrong about that second part. 😅
 
 ---
 
@@ -152,7 +206,7 @@ The original name of this album was going to be Volatile Dream. I wanted a name 
 - Was related to psychedelic rock or "dreams"
 - Sounded cool
 
-I ultimately settled on this idea from a friend, because `volatile` is a keyword in C programming, and the word itself also represented my emotions at the time. The name contains the word "Dream" as well, so it ticked all the boxes.
+I ultimately settled on this idea from a friend, because `volatile` is a keyword in the C programming language, and the word itself also accurately described my emotions at the time. The name contains the word "Dream" as well, so it ticked all the boxes.
 
 ### Album Covers
 
@@ -255,8 +309,6 @@ And these are some from singles that were taken down:
 ![Better Than Never](/assets/img/dcn/better.png){: .w-25 .normal }
 ![Daydream v2](/assets/img/dcn/daydream-v2.png){: .w-25 .normal }
 ![F.A.L.G.S.C.](/assets/img/dcn/falgsc.png){: .w-25 .normal }
-
-Test
 
 ---
 
