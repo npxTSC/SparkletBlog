@@ -22,19 +22,22 @@ Here's a little bit of a preview of what it looks like:
 
 ## Installation
 
-To build from source, it requires a bunch of dependencies. Copy and run a line from below based on your distro:
+### Arch Linux
+
+On Arch Linux, I posted an AUR package that builds it from source for you. If you use an AUR helper like `yay`, you can install it with:
 
 ```bash
-# Arch Linux
-sudo pacman -S --needed gcc gtk4 pkgconf libadwaita
-
-# Ubuntu
-sudo apt install gcc libgtk-4-dev pkg-config libadwaita-1-dev
+yay -S windot-git
 ```
 
-If your distro is missing from this list and you figure out what the dependency package names are, please let me know so I can add them here for others to see. Once you have the dependencies installed, build the crate off GitHub with:
+### Ubuntu
+
+Just run the following commands in your terminal to install it:
 
 ```bash
+# Download the dependencies needed to build from source
+sudo apt install gcc libgtk-4-dev pkg-config libadwaita-1-dev
+
 # Clone the repo
 git clone https://github.com/Lamby777/windot.git
 cd windot
@@ -46,6 +49,10 @@ make && sudo make install
 cd ..
 rm -rf windot
 ```
+
+### Other Distros
+
+It shouldn't be too difficult as long as you can figure out how to install the dependencies listed above in the Ubuntu section. You can ignore the first line of that script and just run the rest of the commands, since they'll do the same thing on any distro.
 
 ---
 
