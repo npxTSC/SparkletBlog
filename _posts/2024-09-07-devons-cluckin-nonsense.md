@@ -120,6 +120,10 @@ Now, why purple? Because I started liking purple and black more than orange arou
 
 One trick I used extensively in this track is to just slap on a hard clipper to get a little extra loudness out of a few mixer tracks. I don't know if this even counts as a "trick" because most producers do this anyway, but this track was one of the first times I really used it all over the place. Even on the spoken word part at the end, I put a hard clipper over it to give the voice that gritty color.
 
+For the drums around the 2-3 minute mark, I made them sorta fade out into noise by putting a flanger AFTER the "permanent" reverb, along with a second more pronounced temporary reverb right after the flanger again. Then, I achieved that rhythm through the noise by using Gross Beat for volume automation.
+
+And how did I get the piano to sound so crispy? I went a little off the usual path and decided to write up a Patcher preset to split the signal into 2 bands of low and high frequencies, and then put a fuzz effect on the high frequencies. I used a free plugin called FuzzPlus3, which emulates the sound of a guitar fuzz pedal. The issue is, in doing so, this plugin only outputs mono, so I made a separate Patcher preset that splits a stereo signal into left and right and applies this plugin to both sides in mono before recombining them back to stereo. After all this, I put some subtle delay on the fuzzed band just to emphasize it a little. Lots of Patcher clownery involved just to get the piano to sound the way it did here. 😉
+
 Anyway, I have this song stuck in my head now because I played it to practice "songs with Bmin" on guitar, so that's nice. 😅
 
 ### Identity Function
