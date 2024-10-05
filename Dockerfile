@@ -18,4 +18,4 @@ RUN bundle install
 VOLUME /srv/jekyll
 
 # Command to build the Jekyll site
-CMD ["jekyll", "build"]
+CMD ["bundle", "exec", "jekyll", "build"]
